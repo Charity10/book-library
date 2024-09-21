@@ -18,7 +18,7 @@ const App = () => {
   }, []);
 
   const editBookById = async (id, newTitle, newAuthor) => {
-    const response = await axios.put(`http://localhost:3001/books/${id}`, {title: newTitle}, {author: newAuthor});
+    const response = await axios.put(`http://localhost:3001/books/${id}`, {title: newTitle, author: newAuthor});
     console.log(response);
 
     const updatedBooks = books.map((book) => {

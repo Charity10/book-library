@@ -1,3 +1,37 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "Steal like an Artist",
+      "author": "Austin Kleon",
+      "id": 1
+    },
+    {
+      "title": "Attitude that Attract success",
+      "author": "Wayne Cordero",
+      "id": 2
+    },
+    {
+      "title": "The Subtle Art of not giving a f*ck",
+      "author": "Mark Marson",
+      "id": 3
+    },
+    {
+      "title": "The 5am club",
+      "author": "Robin Sharma",
+      "id": 4
+    },
+    {
+      "title": "The Richest man in Babylon",
+      "id": 5
+    },
+    {
+      "title": "mel",
+      "id": 6
+    },
+    {
+      "title": "nu",
+      "author": "hh",
+      "id": 8
+    }
+  ]
 }
